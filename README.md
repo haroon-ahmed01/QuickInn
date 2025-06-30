@@ -103,4 +103,9 @@ cd client
 npm install
 npm run dev
 
-I'm currently working on QuickInn, a full-stack room booking application built using the MERN stack, Tailwind CSS, Razorpay for payments, Nodemailer with Gmail for email services, and WhatsApp Cloud API. The app lets users browse, filter, and book rooms with online payment and confirmation. It will also generate invoices during check-in and checkout for detailed payment records. This is an ongoing project, and I’m actively working to integrate AWS services and WhatsApp Cloud API for enhanced functionality and communication. Updates will be released soon.
+I'm currently working on QuickInn, a full-stack room booking application built using the MERN stack, 
+Tailwind CSS, Razorpay for payments, Nodemailer with Gmail for email services, and WhatsApp Cloud API.
+The app lets users browse, filter, and book rooms with online payment and confirmation. 
+It will also generate invoices during check-in and checkout for detailed payment records. 
+This is an ongoing project, and I’m actively working to integrate AWS services 
+and WhatsApp Cloud API for enhanced functionality and communication. Updates will be released soon.
